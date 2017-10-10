@@ -1,1 +1,2 @@
 # religiosity_by_tweets
+This project when run will allow the user to input two twitter names, where it will then calculate the relative positivity, negativity, and religiosity of the two twitter users by assigning them weighted points based off of the language used in their tweet history. The program parses through the user's tweets and finds words that match any of the words found in the positive, negative, or religious text files that contain such words. Feel free to download this code and run it locally on your machine to view a demo!
